@@ -1,1 +1,2 @@
 # pliki_selectora
+# właśnie 
